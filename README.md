@@ -108,6 +108,7 @@ FinOfficer Cloud
 
 
 
+
 Zdecydowanie na DocuTemp przyniesie wiele korzyści:
 
 1. Oszczędność czasu i kosztów - nie traćcie więcej czasu na porządkowanie ręcznego dokumentów i szukanie straconych plików. Wszystko jest na wyciągnięcie ręki w jednym pliku html.
@@ -116,6 +117,37 @@ Zdecydowanie na DocuTemp przyniesie wiele korzyści:
 4. Kontrola - pamiętajcie, że z DocuTemp wy zawsze macie pełną kontrolę nad swoimi danymi. 
 
 Nie czekajcie, skorzystajcie z możliwości, jakie oferuje DocuTemp, a my obiecujemy pełne wsparcie i szybkie wprowadzenie do systemu. Skontaktujcie się z n
+
+
+
+
+## Inwestor/Partner
+
+Szanowny Inwestorze,
+
+Mamy przyjemność zaoferować Ci unikalną możliwość inwestycji w naszą innowacyjną usługę DocuTemp - narzędzie do szyfrowania i przechowywania dokumentów projektowych w jednym przenośnym pliku HTML.
+
+Za jednorazową opłatą 1 000 PLN, otrzymasz pakiet 10 licencji typu "Lifetime", które umożliwiają korzystanie z naszej usługi bez konieczności ponoszenia dodatkowych opłat. Co więcej, po upływie 2 lat, te licencje możesz odsprzedać, zwiększając tym samym potencjalny zwrot z inwestycji.
+
++ Oficjalny koszt płatnej wersji to 10PLN/Miesięcznie za licencję dla 1 użytkownika
++ Wersja darmowa nie posiada możliwości korzystania z synchronizacji zadań online
+
+
+Ale to nie wszystko. Jako inwestor, otrzymasz dostęp do najświeższych aktualizacji oraz płatnych dodatków przez kolejne 2 lata zupełnie bezpłatnie.
+
+Będąc partnerem VIP, możesz liczyć na priorytetowe wsparcie oraz możliwość wpływania na kierunek rozwoju naszego narzędzia. Jesteśmy otwarci na Twoje sugestie i chętnie dostosujemy nasze aktualizacje do Twoich indywidualnych potrzeb.
+
+DocuTemp jest odpowiedzią na nowoczesne potrzeby zarządzania dokumentami. Dołączając do nas, inwestujesz nie tylko w produkt, ale również w przyszłość technologii szyfrowania i przechowywania danych.
+
+Zachęcamy do skontaktowania się z nami, aby dowiedzieć się więcej lub umówić spotkanie.
+
+Z poważaniem,
+
+[Imię i nazwisko]
+
+
+
+## Biznesmen
 
 
 
@@ -144,7 +176,7 @@ Pozdrawiam,
 
 
 
-
+## Sekretarka
 
 
 Droga [imię Sekretarki],
