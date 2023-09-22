@@ -200,3 +200,45 @@ Pozdrawiam serdecznie,
 
 
 
+## Oferty
+
+
+Zaproponuj listę firm i napisz ofertę na Subskrypcję DocuTemp za 10PLN miesięcznie lub 100PLN rocznie do każdej z nich w sposób spersonalizowany i dopasowany do ich potrzeb
+
+
+1. Biuro księgowe "Stabilność":
+
+Drogi Partnerze, 
+
+Zdajemy sobie sprawę, jak istotne dla Twojego biznesu jest bezpieczne i wydajne zarządzanie danymi klientów. DocuTemp, nasze nowoczesne narzędzie do szyfrowania i przechowywania dokumentów, jest idealne dla branży księgowej. Dostęp do niego oferujemy na wygodnych warunkach subskrypcji - za jedyne 10PLN miesięcznie lub 100 PLN rocznie.
+
+
+2. Kancelaria prawna "Prawnik i Partnerzy":
+
+Szanowny Panie Mecenasie, 
+
+Wiemy, jak dużą wartość mają w Państwa pracy dokumenty prawne. Dokumenty te zawierają istotne informacje, które wymagają bezpiecznego przechowywania. Nasz produkt DocuTemp zapewnia takie bezpieczeństwo. Zapraszamy do korzystania z subskrypcji DocuTemp za 10 PLN miesięcznie lub 100 PLN rocznie.
+
+
+3. Klinika medyczna „Zdrowie na pierwszym miejscu”:
+
+Szanowna Pani Dyrektor,
+
+Pacjenci powierzają Państwu swoje dane, które zgodnie z prawem muszą być odpowiednio chronione. Nasze narzędzie DocuTemp umożliwia bezpieczne przechowywanie i szyfrowanie dokumentów medycznych. Służymy pomocą, oferując subskrypcję DocuTemp za 10 PLN miesięcznie lub 100 PLN rocznie.
+
+
+4. Biuro architektoniczne “Modern Design”:
+
+Drogi Partnerze,
+
+DocuTemp to idealne rozwiązanie dla Twojej firmy – pozwoli na bezpieczne przechowywanie i szyfrowanie dokumentów projektowych. Oferujemy Ci subskrypcję DocuTemp za 10 PLN miesięcznie lub 100 PLN rocznie.
+
+
+5. Agencja reklamowa “Creative Mind”:
+
+Szanowna Pani Dyrektor,
+
+W branży kreatywnej, jak Twoja, bezpieczeństwo i prywatność pomysłów są kluczowe. DocuTemp pozwoli Ci chronić Twoje kreatywne projekty. Proponujemy Ci subskrypcję za 10 PLN miesięcznie, lub 100 PLN rocznie.
+
+
+
